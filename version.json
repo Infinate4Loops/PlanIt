@@ -1,0 +1,9 @@
+{
+  "latestVersion": "1.0",
+  "latestVersionCode": 1,
+  "url": "https://github.com/Infinate4Loops/my-app-updates/raw/main/app-release.apk",
+  "releaseNotes": [
+    "Initial release of the app",
+    "Basic functionality implemented"
+  ]
+}
