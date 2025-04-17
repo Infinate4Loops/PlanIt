@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.0",
   "latestVersionCode": 1,
-  "url": "https://github.com/Infinate4Loops/my-app-updates/raw/main/app-release.apk",
+  "url": "https://raw.githubusercontent.com/Infinate4Loops/PlanIt/main/app-release.apk",
   "releaseNotes": [
     "Initial release of the app",
     "Basic functionality implemented"
