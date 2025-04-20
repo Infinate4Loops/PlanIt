@@ -1,9 +1,9 @@
 {
   "latestVersion": "1.1",
   "latestVersionCode": 2,
-  "url": "https://raw.githubusercontent.com/Infinate4Loops/PlanIt/main/app-release.apk",
+  "url": "https://raw.githubusercontent.com/Infinate4Loops/PlanIt/main/app-debug.apk",
   "releaseNotes": [
-    "Fixed login bug",
-    "Improved meal prep suggestions"
+    "Removed microphone button from grocery list",
+    "Other improvements and bug fixes"
   ]
 }
