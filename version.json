@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": 3,
+  "latestVersion": "1.3",
+  "latestVersionCode": 4,
   "url": "https://raw.githubusercontent.com/Infinate4Loops/PlanIt/main/app-debug.apk",
   "releaseNotes": [
-    "Removed microphone button from grocery list",
-    "Other improvements and bug fixes"
+    "Made stuff better",
+    "Added Vacations"
   ]
 }
