@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.3",
-  "latestVersionCode": 4,
+  "latestVersion": "1.1",
+  "latestVersionCode": 2,
   "url": "https://raw.githubusercontent.com/Infinate4Loops/PlanIt/main/app-debug.apk",
   "releaseNotes": [
     "Made stuff better",
-    "Added Vacations"
+    "Bug fixes and performance improvements"
   ]
 }
