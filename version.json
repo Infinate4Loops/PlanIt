@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.7",
-  "latestVersionCode": 8                                                    ,
+  "latestVersion": "1.8",
+  "latestVersionCode": 9                                                    ,
   "url": "https://raw.githubusercontent.com/Infinate4Loops/PlanIt/main/app-debug.apk",
   "releaseNotes": [
-    "added Weekend plans",
-    "added To Do list"
+    "fixed layout",
+    "added AI chat"
   ]
 }
