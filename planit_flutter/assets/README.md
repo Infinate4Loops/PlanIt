@@ -1,0 +1,1 @@
+Put images and other bundled assets here.
