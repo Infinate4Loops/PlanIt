@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Account - My PlanIt AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #d32f2f;
+            border-bottom: 2px solid #d32f2f;
+            padding-bottom: 10px;
+        }
+        .warning {
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .steps {
+            background-color: #f8f9fa;
+            border-left: 4px solid #007bff;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .contact-info {
+            background-color: #e8f5e8;
+            border: 1px solid #c3e6c3;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Delete Your My PlanIt AI Account</h1>
+    
+    <div class="warning">
+        <strong>⚠️ Important:</strong> Deleting your account is permanent and cannot be undone. All your data will be permanently removed.
+    </div>
+
+    <h2>How to Delete Your Account</h2>
+    
+    <div class="steps">
+        <h3>Method 1: In-App Deletion (Recommended)</h3>
+        <ol>
+            <li>Open the My PlanIt AI app on your device</li>
+            <li>Go to <strong>Settings</strong></li>
+            <li>Scroll down and tap <strong>"Delete Account"</strong></li>
+            <li>Confirm your decision by typing "DELETE" when prompted</li>
+            <li>Your account and all data will be immediately deleted</li>
+        </ol>
+    </div>
+
+    <div class="contact-info">
+        <h3>Method 2: Email Request</h3>
+        <p>If you cannot access the app, you can request account deletion by email:</p>
+        <p><strong>Email:</strong> <a href="mailto:infinate4loops@gmail.com">your-email@example.com</a></p>
+        <p><strong>Subject:</strong> Delete My PlanIt AI Account</p>
+        <p><strong>Include in your email:</strong></p>
+        <ul>
+            <li>Your registered email address</li>
+            <li>Confirmation that you want to permanently delete your account</li>
+        </ul>
+        <p><em>We will process email deletion requests within 30 days.</em></p>
+    </div>
+
+    <h2>What Data Gets Deleted</h2>
+    
+    <h3>✅ Data That Will Be Permanently Deleted:</h3>
+    <ul>
+        <li>Your account profile and login credentials</li>
+        <li>All meal plans and recipes you've created</li>
+        <li>All vacation and travel plans</li>
+        <li>All to-do lists and tasks</li>
+        <li>All weekend activity plans</li>
+        <li>Any photos you've uploaded through the app</li>
+        <li>All app preferences and settings</li>
+        <li>Usage analytics tied to your account</li>
+    </ul>
+
+    <h3>📋 Data Retention:</h3>
+    <ul>
+        <li><strong>No data is retained</strong> after account deletion</li>
+        <li>Anonymized usage statistics (not tied to your identity) may be kept for app improvement</li>
+        <li>Legal compliance data may be retained as required by law</li>
+    </ul>
+
+    <h2>Before You Delete</h2>
+    <p>Consider these alternatives:</p>
+    <ul>
+        <li><strong>Export your data:</strong> Save your meal plans and travel plans before deletion</li>
+        <li><strong>Take a break:</strong> You can simply uninstall the app without deleting your account</li>
+        <li><strong>Contact support:</strong> If you're having issues, we might be able to help</li>
+    </ul>
+
+    <div class="contact-info">
+        <h3>Need Help?</h3>
+        <p>If you have questions about account deletion or need technical support:</p>
+        <p><strong>Email:</strong> <a href="mailto:infinate4loops@gmail.com">infinate4loops@gmail.com</a></p>
+        <p><strong>App Developer:</strong> My PlanIt AI</p>
+    </div>
+
+    <hr>
+    <p><small>This page is associated with the My PlanIt AI app available on Google Play Store. Last updated: [Current Date]</small></p>
+</body>
+</html>
